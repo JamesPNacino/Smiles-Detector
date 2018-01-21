@@ -2,7 +2,7 @@
 
 ## Summary
 
-Using LeNet CNN architecture and OpenCV to detect Smiles in real-time. Recieved lots of help implementing this project through the book "Deep Learning for Computer Vision with Python" by Dr. Adrian Rosebrock.
+Using LeNet CNN architecture and OpenCV to detect Smiles in real-time using your own webcam. Just run the Jupyter notebook associated with this repository. Recieved lots of help implementing this project through the book "Deep Learning for Computer Vision with Python" by Dr. Adrian Rosebrock.
 
 ## Python Packages 
 
