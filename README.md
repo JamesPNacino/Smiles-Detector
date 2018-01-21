@@ -4,6 +4,11 @@
 
 Using LeNet CNN architecture and OpenCV to detect Smiles in real-time using your own webcam. Just run the Jupyter notebook associated with this repository. Recieved lots of help implementing this project through the book "Deep Learning for Computer Vision with Python" by Dr. Adrian Rosebrock.
 
+Below is what it looks like:
+
+![alt text](https://github.com/JamesPNacino/Smiles-Detector/blob/master/Not%20Smiling.PNG)
+![alt text](https://github.com/JamesPNacino/Smiles-Detector/blob/master/Smiling.PNG)
+
 ## Python Packages 
 
 from sklearn.preprocessing import LabelEncoder
@@ -35,5 +40,6 @@ I have used a NVIDIA GTX 1070 GPU for this project to speed up computing times.
 
 ## Data Required for this project
 https://github.com/opencv/opencv
+https://github.com/hromi/SMILEsmileD
 
-Through this link you will be able to find the Haar cascade filter used to detect faces.
+Through this link you will be able to find the Haar cascade filter used to detect faces. You will also need to download the pictures throught the second link - the pictures to train on are not uploaded to this repo.
